@@ -1,6 +1,7 @@
 # This file is part of the tschm/.config-templates repository
 # (https://github.com/tschm/.config-templates).
 #
+#
 name: 'Sync Config Templates'
 description: 'Sync configuration templates into a project and create a pull request if needed'
 author: 'Thomas Schmelzer'
